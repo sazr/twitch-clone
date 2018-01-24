@@ -8,7 +8,7 @@
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
-    "bootstrap": "latest",
+    "bootstrap": "^3.3.7",
     "font-awesome": "latest",
     "grunt": "~0.4.*",
     "grunt-contrib-concat": "^1.0.1",
