@@ -1,0 +1,84 @@
+
+
+@import (reference) "./globals.less";
+@import (reference) "../node_modules/bootstrap/less/bootstrap.less";
+
+
+a,
+a:focus,
+a:visited {
+	.text-capitalize;
+
+	color: @link-col;
+	background-color: transparent;
+	display: inline-block;
+}
+
+a:hover,
+a:active {
+	color: @link-focus-col;
+	background-color: transparent;
+	text-decoration: underline;
+}
+
+
+.btn {
+	.text-capitalize;
+
+	color: @btn-col;
+	background-color: @btn-bk-col;
+	border-radius: 0;
+}
+
+.btn:hover {
+	background-color: @btn-focus-bk-col;
+}
+
+
+/* Utils */
+.full-height {
+	height: 100%;
+}
+
+.flex-height {
+	max-height: 100%;
+	width: auto;
+}
+
+.stretch-height {
+	.full-height;
+
+	/* For iOS & MacOS */
+	&:before,
+	&:after {
+		display: none;
+	}
+}
+
+
+/* Navbar overrides */
+.nav {
+
+	> li {
+		> a,
+		> a:focus,
+		> a:visited {
+			color: @nav-link-col;
+			background-color: transparent;
+		}
+
+		> a:hover,
+		> a:active {
+			color: @nav-link-focus-col;
+			background-color: transparent;
+		}
+	}
+}
+
+.navbar-brand {
+	padding: 0px 15px;
+
+	> img {
+		.flex-height;
+	}
+}

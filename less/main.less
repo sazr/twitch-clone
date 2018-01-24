@@ -1,0 +1,177 @@
+/* ==========================================================================
+   Twitch Pty Ltd
+ ========================================================================== */
+
+
+
+
+@import "./globals.less";
+@import "./bootstrap-overrides.less";
+
+
+body {
+	color: @def-font-col;
+	font-size: @def-font-size;
+	padding-top: 50px;
+	height: 100vh;
+}
+
+.streamer-container {
+	.stretch-height;
+}
+
+
+.streamer-suggestions {
+	.full-height;
+	
+	float: left;
+	width: 55px;
+	padding: 20px 5px;
+	background-color: #19171c;
+}
+
+
+.streamer-content {
+	.full-height;
+
+	overflow-x: hidden;
+	overflow-y: scroll;
+	padding: 0rem 2rem;
+}
+
+
+.chat {
+	.full-height;
+
+	width: 300px;
+	float: right;
+	padding: 2rem;
+	background-color: #efeef1;
+
+	text-area {
+		width: 100%;
+	}
+}
+
+
+.hosting-header,
+.hosting-footer {
+	background-color: #6441A5;
+	padding: 0.5rem;
+}
+
+.hosting-content {
+	background-color: #000;
+	padding: 100px 0px;
+	text-align: center;
+	color: #fff;
+}
+
+
+
+/* */
+.main-navbar {
+	background-color: #6441A5;
+
+	.icon-bar {
+		background-color: #fff;
+	}
+}
+
+.streamer-navbar {
+	border-bottom: solid 1px #ddd;
+
+	.nav a {
+		margin: 7px 0px;
+		padding: 10px 15px 5px 15px;
+		border-right: solid 1.5px #ddd;
+		color: #19171c;
+	}
+
+	.navbar-brand {
+		padding: 10px 0px 5px 0px;
+		border-bottom: solid 5px #6441A5;
+	}
+	
+	.icon-bar {
+		background-color: #aaa;
+	}
+}
+
+
+
+/* Device = Tablets, iPads. Screen = 768px to 1024px */
+@media (min-width: 768px) and (max-width: 1024px) {
+
+	body {
+		font-size: @tablet-font-size;
+	}
+
+	.chat {
+		display: none;
+	}
+
+	/* Reset Bootstrap 3 nav breakpoint (from 99px). */
+	.navbar-header {
+      float: none;
+	}
+	.navbar-left,.navbar-right {
+	  float: none !important;
+	}
+	.navbar-toggle {
+	  display: block;
+	}
+	.navbar-collapse {
+	  border-top: 1px solid transparent;
+	  box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+	}
+	.navbar-fixed-top {
+	  top: 0;
+	  border-width: 0 0 1px;
+	}
+	.navbar-collapse.collapse {
+	  display: none!important;
+	}
+	.navbar-nav {
+	  float: none!important;
+	  margin-top: 7.5px;
+	}
+	.navbar-nav>li {
+	  float: none;
+	}
+	.navbar-nav>li>a {
+	  padding-top: 10px;
+	  padding-bottom: 10px;
+	}
+	.collapse.in{
+	  display:block !important;
+	}
+}
+
+/* Device = Smartphones. Screen > 320px */
+@media (min-width: 320px) and (max-width: 767px) {
+
+	body {
+
+		font-size: @mobile-font-size;
+	}
+
+	.chat {
+		display: none;
+	}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

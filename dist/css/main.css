@@ -1,0 +1,202 @@
+/* ==========================================================================
+   Twitch Pty Ltd
+ ========================================================================== */
+@media screen and (max-width: 767px) {
+}
+@media (min-width: 768px) {
+}
+@media (min-width: 768px) {
+}
+@media (max-width: 767px) {
+}
+@media (min-width: 768px) {
+}
+@media (min-width: 768px) {
+}
+@media (max-width: 767px) {
+}
+@media (max-width: 767px) {
+}
+a,
+a:focus,
+a:visited {
+  text-transform: capitalize;
+  color: #6441A5;
+  background-color: transparent;
+  display: inline-block;
+}
+a:hover,
+a:active {
+  color: #d3cae8;
+  background-color: transparent;
+  text-decoration: underline;
+}
+.btn {
+  text-transform: capitalize;
+  color: #fff;
+  background-color: #7d5bbe;
+  border-radius: 0;
+}
+.btn:hover {
+  background-color: #7d5bbe;
+}
+/* Utils */
+.full-height {
+  height: 100%;
+}
+.flex-height {
+  max-height: 100%;
+  width: auto;
+}
+.stretch-height {
+  height: 100%;
+  /* For iOS & MacOS */
+}
+.stretch-height:before,
+.stretch-height:after {
+  display: none;
+}
+/* Navbar overrides */
+.nav > li > a,
+.nav > li > a:focus,
+.nav > li > a:visited {
+  color: #d3cae8;
+  background-color: transparent;
+}
+.nav > li > a:hover,
+.nav > li > a:active {
+  color: #fff;
+  background-color: transparent;
+}
+.navbar-brand {
+  padding: 0px 15px;
+}
+.navbar-brand > img {
+  max-height: 100%;
+  width: auto;
+}
+body {
+  color: #19171c;
+  font-size: 14px;
+  padding-top: 50px;
+  height: 100vh;
+}
+.streamer-container {
+  height: 100%;
+  /* For iOS & MacOS */
+}
+.streamer-container:before,
+.streamer-container:after {
+  display: none;
+}
+.streamer-suggestions {
+  height: 100%;
+  float: left;
+  width: 55px;
+  padding: 20px 5px;
+  background-color: #19171c;
+}
+.streamer-content {
+  height: 100%;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  padding: 0rem 2rem;
+}
+.chat {
+  height: 100%;
+  width: 300px;
+  float: right;
+  padding: 2rem;
+  background-color: #efeef1;
+}
+.chat text-area {
+  width: 100%;
+}
+.hosting-header,
+.hosting-footer {
+  background-color: #6441A5;
+  padding: 0.5rem;
+}
+.hosting-content {
+  background-color: #000;
+  padding: 100px 0px;
+  text-align: center;
+  color: #fff;
+}
+/* */
+.main-navbar {
+  background-color: #6441A5;
+}
+.main-navbar .icon-bar {
+  background-color: #fff;
+}
+.streamer-navbar {
+  border-bottom: solid 1px #ddd;
+}
+.streamer-navbar .nav a {
+  margin: 7px 0px;
+  padding: 10px 15px 5px 15px;
+  border-right: solid 1.5px #ddd;
+  color: #19171c;
+}
+.streamer-navbar .navbar-brand {
+  padding: 10px 0px 5px 0px;
+  border-bottom: solid 5px #6441A5;
+}
+.streamer-navbar .icon-bar {
+  background-color: #aaa;
+}
+/* Device = Tablets, iPads. Screen = 768px to 1024px */
+@media (min-width: 768px) and (max-width: 1024px) {
+  body {
+    font-size: 14px;
+  }
+  .chat {
+    display: none;
+  }
+  /* Reset Bootstrap 3 nav breakpoint (from 99px). */
+  .navbar-header {
+    float: none;
+  }
+  .navbar-left,
+  .navbar-right {
+    float: none !important;
+  }
+  .navbar-toggle {
+    display: block;
+  }
+  .navbar-collapse {
+    border-top: 1px solid transparent;
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
+  }
+  .navbar-fixed-top {
+    top: 0;
+    border-width: 0 0 1px;
+  }
+  .navbar-collapse.collapse {
+    display: none!important;
+  }
+  .navbar-nav {
+    float: none!important;
+    margin-top: 7.5px;
+  }
+  .navbar-nav > li {
+    float: none;
+  }
+  .navbar-nav > li > a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .collapse.in {
+    display: block !important;
+  }
+}
+/* Device = Smartphones. Screen > 320px */
+@media (min-width: 320px) and (max-width: 767px) {
+  body {
+    font-size: 12px;
+  }
+  .chat {
+    display: none;
+  }
+}

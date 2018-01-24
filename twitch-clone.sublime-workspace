@@ -1,0 +1,887 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"onadd",
+				"onAddContainerWidget"
+			],
+			[
+				"onA",
+				"onAddRowWidget"
+			],
+			[
+				"onAdd",
+				"onAddBtnWidget"
+			],
+			[
+				"onFon",
+				"onFontFamilyChange"
+			],
+			[
+				"btn",
+				"btnOptions"
+			],
+			[
+				"on",
+				"onSrcChange"
+			],
+			[
+				"nex",
+				"nextSibling"
+			],
+			[
+				"sib",
+				"siblingWidth"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"pa",
+				"Padding"
+			],
+			[
+				"col",
+				"colourBtn"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"pop",
+				"popupText"
+			],
+			[
+				"pu",
+				"pub_key"
+			],
+			[
+				"OUTP",
+				"OUTPUTDIR2"
+			],
+			[
+				"inpu",
+				"input_dir"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"scr",
+				"scrollHandler"
+			],
+			[
+				"beg",
+				"beginPos"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"vd-wo",
+				"vd-widget-tag-container"
+			],
+			[
+				"des",
+				"desktop-view"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"fon",
+				"fontSize"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"butt",
+				"buttons"
+			],
+			[
+				"trash",
+				"trashElement"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"def",
+				"defMenuBtns"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"parent",
+				"parentWidget"
+			],
+			[
+				"H",
+				"helvetica"
+			],
+			[
+				"par",
+				"parentMenu"
+			],
+			[
+				"reg",
+				"registry"
+			],
+			[
+				"sty",
+				"styleContainer"
+			],
+			[
+				"ch",
+				"changeElementType"
+			],
+			[
+				"insert",
+				"insertionType"
+			],
+			[
+				"undo",
+				"undoListIndex"
+			],
+			[
+				"widg",
+				"widgetTypes"
+			],
+			[
+				"colu",
+				"columnWidget"
+			],
+			[
+				"colW",
+				"colWidgets"
+			],
+			[
+				"bin",
+				"bindTriggers"
+			],
+			[
+				"visua",
+				"visualDesigner"
+			],
+			[
+				"me",
+				"menuTop"
+			],
+			[
+				"meu",
+				"menuBtns"
+			],
+			[
+				"bas",
+				"baseMenu"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"widge",
+				"widgetType"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"Visu",
+				"VisualDesignerInitialise"
+			],
+			[
+				"img",
+				"imgWidget"
+			],
+			[
+				"tex",
+				"textWidget"
+			],
+			[
+				"rowC",
+				"rowColumnOptions"
+			],
+			[
+				"mar",
+				"markupBuilderOptions"
+			],
+			[
+				"res",
+				"resizeColumn"
+			],
+			[
+				"sibli",
+				"siblingWidth"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ari",
+				"aria-expanded"
+			],
+			[
+				"_tr",
+				"_trashWidget"
+			],
+			[
+				"menu",
+				"menuBtns"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/admin/Desktop/twitch-clone"
+	],
+	"file_history":
+	[
+		"/C/Users/admin/Desktop/twitch-clone/less/main.less",
+		"/C/Users/admin/Desktop/twitch-clone/TODO.md",
+		"/C/Users/admin/Desktop/twitch-clone/less/globals.less",
+		"/C/Users/admin/Desktop/twitch-clone/index.html",
+		"/C/Users/admin/Desktop/twitch-clone/node_modules/bootstrap/less/navbar.less",
+		"/C/Users/admin/Desktop/twitch-clone/node_modules/bootstrap/less/navs.less",
+		"/C/Users/admin/Desktop/twitch/less/bootstrap-overrides.less",
+		"/C/Users/admin/Desktop/main.less",
+		"/C/Users/admin/Desktop/twitch/node_modules/bootstrap/less/navs.less",
+		"/C/Users/admin/Desktop/twitch/node_modules/bootstrap/less/navbar.less",
+		"/C/Users/admin/Desktop/twitch/less/globals.less",
+		"/C/Users/admin/Desktop/twitch/less/main.less",
+		"/C/Users/admin/Desktop/twitch/index.html",
+		"/C/Users/admin/Desktop/twitch/TODO.md",
+		"/C/Users/admin/Desktop/package.json",
+		"/C/Users/admin/Desktop/TODO.md",
+		"/C/Users/admin/Desktop/twitch/Gruntfile.js",
+		"/C/Users/admin/Desktop/twitch/dist/css/main.min.css",
+		"/C/Users/admin/Desktop/twitch/node_modules/bootstrap/less/utilities.less",
+		"/C/Users/admin/Desktop/twitch/dist/css/main.css",
+		"/D/_Work/Soribo/_TESTS/vd/src/Gruntfile.js",
+		"/C/Users/admin/Desktop/twitch/node_modules/bootstrap/less/bootstrap.less",
+		"/D/_Work/Soribo/_TESTS/vd/src/src/js/text-widget.js",
+		"/D/_Work/Soribo/_TESTS/vd/src/demo/index-iframe.html",
+		"/D/_Work/Soribo/_TESTS/vd/src/demo/index-release.html",
+		"/D/_Work/Soribo/_TESTS/vd/src/demo/index.html",
+		"/D/_Work/Soribo/_TESTS/vd/src/src/js/row-widget.js",
+		"/D/_Work/Soribo/_TESTS/vd/src/src/js/frameworks/bootstrap-twitter-framework.js",
+		"/D/_Work/Soribo/_TESTS/vd/src/src/js/base-framework.js",
+		"/D/_Work/Soribo/_TESTS/vd/src/src/js/manager.js",
+		"/D/_Work/Soribo/_TESTS/vd/src/src/js/column-widget.js",
+		"/C/Users/admin/Documents/My Web Sites/_vD/wp-content/plugins/vd/public/class-vd-public.php",
+		"/C/Users/admin/Documents/My Web Sites/_vD/wp-content/plugins/vd-beta/public/class-vd-public.php",
+		"/C/Users/admin/Documents/My Web Sites/_vD/wp-content/plugins/vd-private/public/class-vd-public.php",
+		"/D/_Work/Soribo/_TESTS/vd/src/src/js/section-widget.js",
+		"/D/_Work/Soribo/_TESTS/vd/src/src/js/base-widget.js",
+		"/D/_Work/Soribo/_TESTS/vd/src/src/js/frameworks/wpdemo-framework.js",
+		"/D/_Work/Soribo/_TESTS/vd/src/src/js/frameworks/wpbeta-framework.js",
+		"/D/_Work/Soribo/_TESTS/vd/src/src/js/frameworks/wordpress-framework.js",
+		"/D/_Work/Soribo/_TESTS/vd/src/src/js/ca-structural-widget.js",
+		"/D/_Work/Soribo/_TESTS/vd/src/src/js/visual-designer.js",
+		"/D/_Work/Soribo/_TESTS/vd/src/src/js/img-widget.js",
+		"/D/_Work/Soribo/_TESTS/vd/src/src/js/base-menu.js",
+		"/D/_Work/Soribo/_TESTS/vd/src/src/js/frameworks/wordpress/shortcode-widget.js",
+		"/C/Users/admin/Documents/My Web Sites/_vD/wp-includes/shortcodes.php",
+		"/C/Users/admin/Desktop/twitch/package.json",
+		"/C/Users/admin/Desktop/twitch/node_modules/modernizr/readme.md",
+		"/C/Users/admin/Desktop/twitch/node_modules/modernizr/bin/modernizr",
+		"/C/Users/admin/Desktop/twitch/node_modules/modernizr/package.json",
+		"/C/Users/admin/Desktop/twitch/node_modules/jquery/dist/jquery.min.js",
+		"/C/Users/admin/Desktop/twitch/package.json.dep",
+		"/C/Users/admin/Desktop/Website_Template/index.html",
+		"/C/Users/admin/Desktop/Website_Template/css/main.css",
+		"/C/Users/admin/Desktop/Website_Template/js/main.js",
+		"/D/_Work/Soribo/_TESTS/vd/src/src/less/row-widget.less",
+		"/D/_Work/Soribo/_TESTS/vd/src/src/less/column-widget.less",
+		"/D/_Work/Soribo/_TESTS/vd/src/src/less/base-menu.less",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/User/HTML.sublime-settings",
+		"/C/Users/admin/Desktop/Website_Template/robots.txt",
+		"/C/Users/admin/Desktop/Website_Template/browserconfig.xml",
+		"/C/Users/admin/Desktop/initializr-verekia-4.0(1)/initializr/index.html",
+		"/C/Users/admin/Desktop/html5-boilerplate_v6.0.1/index.html",
+		"/C/Users/admin/Desktop/Website_Template/js/vendor/npm.js",
+		"/C/Users/admin/Desktop/Website_Template/js/vendor/bootstrap.js",
+		"/C/Users/admin/Desktop/Website_Template/404.html",
+		"/D/_Work/Soribo/_TESTS/vd/src/spike/moveVdToIframeAlt.html",
+		"/C/Users/admin/Desktop/cover_letter_2.txt",
+		"/C/Users/admin/Desktop/cover_letter.txt",
+		"/C/Users/admin/Desktop/cover_letter_3.txt",
+		"/C/Users/admin/Desktop/cover_letter_4.txt",
+		"/C/Users/admin/Desktop/cover_letter_5.txt",
+		"/C/Users/admin/Desktop/cover_letter_6.txt",
+		"/C/Users/admin/Downloads/Ant Videos/002 - TwinkHouse.mp4",
+		"/D/_Work/Soribo/_TESTS/vd/src/src/js/html-widget.js",
+		"/D/_Work/Soribo/_TESTS/vd/src/src/js/container-widget.js",
+		"/D/_Work/Soribo/_TESTS/vd/src/src/js/component-widget.js",
+		"/D/_Work/Soribo/_TESTS/vd/src/src/js/video-widget.js",
+		"/D/_Work/Soribo/_TESTS/vd/src/src/js/icon-widget.js",
+		"/D/_Work/Soribo/_TESTS/Embedded_Python/simple-crypt-master/README.md",
+		"/D/_Work/Soribo/_TESTS/CRYPTER/encryptdir_ex.py",
+		"/D/_Work/Soribo/_TESTS/CRYPTER/run_ex.py",
+		"/D/_Work/Soribo/_TESTS/Embedded_Python/simple-crypt-master/README.txt",
+		"/D/_Work/Soribo/_TESTS/vd/src/src/js/vd-btn-widget.js",
+		"/D/_Work/Soribo/_TESTS/vd/src/src/js/inputs/slider-widget.js",
+		"/D/_Work/Soribo/_TESTS/vd/src/src/js/inputs/vd-bk-img-input-widget.js",
+		"/D/_Work/Soribo/_TESTS/vd/src/src/js/inputs/vd-font-family-widget.js",
+		"/C/Users/admin/Documents/My Web Sites/_vD/wp-content/plugins/_DEP_vd-beta/public/js/vd-public.js",
+		"/C/Users/admin/Documents/My Web Sites/_vD/wp-content/plugins/vd/public/js/vd-public.js",
+		"/C/Users/admin/Documents/My Web Sites/_vD/moveVdToIframeAlt.html",
+		"/D/_Work/Soribo/_TESTS/vd/src/spike/moveToIframeDemo.html",
+		"/D/_Work/Soribo/_TESTS/vd/src/spike/moveVdToIframe.html",
+		"/D/_Work/Soribo/_TESTS/vd/src/spike/moveToIframe.html",
+		"/D/_Work/Soribo/_TESTS/vd/src/src/js/inputs/vd-dropdown-widget.js",
+		"/C/Users/admin/Desktop/a.html",
+		"/D/_Work/Soribo/_TESTS/vd/src/src/js/inputs/vd-link-input-widget.js",
+		"/D/_Work/Soribo/_TESTS/vd/src/package.json",
+		"/C/Users/admin/Desktop/b.html",
+		"/D/_Work/Soribo/_TESTS/vd/src/src/less/component-widget.less",
+		"/C/Users/admin/AppData/Local/Temp/column-widget.txt",
+		"/C/Users/admin/Desktop/column-widget.txt",
+		"/C/Users/admin/Desktop/column-widget.js",
+		"/D/_Work/_Portfolio/Cover_Letter1.txt",
+		"/D/_Work/_Portfolio/Cover_Letter2.txt",
+		"/D/_Work/_Portfolio/ODesk_Cover_Letter.txt",
+		"/D/_Work/_Portfolio/ODesk_Example.txt",
+		"/D/_Work/_Portfolio/Stack_Overflow_Cover_letter.txt",
+		"/D/_Work/_Portfolio/Stack_Overflow_Cover_letter_2.txt",
+		"/D/_Work/_Portfolio/Stack_Overflow_Cover_letter_3.txt",
+		"/D/_Work/Soribo/_TESTS/vd/src/src/js/inputs/textarea-widget.js",
+		"/D/_Work/Soribo/_TESTS/vd/src/src/less/visual-designer.less",
+		"/D/_Work/Soribo/_TESTS/vd/src/src/js/inputs/vd-font-size-widget.js",
+		"/D/_Work/Soribo/_TESTS/vd/src/src/less/editor.less",
+		"/D/_Work/Soribo/_TESTS/vd/wp_plugin/vd-private/public/js/vd-public.js",
+		"/D/_Work/Soribo/_TESTS/vd/src/src/less/visual-designer-release.less",
+		"/D/_Work/Soribo/_TESTS/vd/src/src/less/base-widget.less",
+		"/D/_Work/Soribo/_TESTS/vd/src/src/less/icon-widget.less",
+		"/D/_Work/Soribo/_TESTS/vd/src/src/less/text-widget.less",
+		"/D/_Work/Soribo/_TESTS/vd/src/src/js/utils/util.js",
+		"/D/_Work/Soribo/_TESTS/vd/wp_plugin/supportv.php",
+		"/D/_Work/Soribo/_TESTS/vd/wp_plugin/utils.php",
+		"/D/_Work/Soribo/_TESTS/vd/wp_plugin/util.php",
+		"/D/_Work/Soribo/_TESTS/vd/wp_plugin/vd-private/public/class-vd-public.php",
+		"/D/_Work/Soribo/_TESTS/vd/wp_plugin/vd-private/public/partials/vd-public-display.php",
+		"/D/_Work/Soribo/_TESTS/vd/wp_plugin/vd-private/includes/class-vd-activator.php",
+		"/D/_Work/Soribo/_TESTS/vd/wp_plugin/vd-private/includes/class-vd.php",
+		"/D/_Work/Soribo/_TESTS/vd/wp_plugin/single.php",
+		"/D/_Work/Soribo/_TESTS/vd/wp_plugin/version.php"
+	],
+	"find":
+	{
+		"height": 80.0
+	},
+	"find_in_files":
+	{
+		"height": 220.0,
+		"where_history":
+		[
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\js",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\js",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\js\\inputs",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\less",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\js",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\less",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\js",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\less",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\js\\inputs",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\js",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\js",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\js\\inputs",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\less",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\js",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\less",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\js",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\less",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\js",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\js\\inputs",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\js",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\less",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\js",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\js",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\less",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\js",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\less",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\js",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\less",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\js",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\less",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\js",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\less",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\js",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\less",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\js",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\less",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\js",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\js",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\js",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\less",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\js",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src",
+			"D:\\_Work\\Soribo\\_TESTS\\vd\\src\\src\\js",
+			"D:\\_Work\\Soribo\\_TESTS\\Visual_Designer_2.0\\src\\src\\js",
+			"D:\\_Work\\Soribo\\_TESTS\\Visual_Designer_2.0\\src\\src\\less",
+			"D:\\_Work\\Soribo\\_TESTS\\Visual_Designer_2.0\\src\\node_modules\\jquery-ui\\ui\\widgets",
+			"D:\\_Work\\Soribo\\_TESTS\\Visual_Designer_2.0\\src\\src\\js",
+			"D:\\_Work\\Soribo\\_TESTS\\Visual_Designer_2.0\\src\\src",
+			"D:\\_Work\\Soribo\\_TESTS\\Visual_Designer_2.0\\src\\src\\js",
+			"D:\\_Work\\Soribo\\_TESTS\\Visual_Designer_2.0\\Src\\src",
+			"D:\\_Work\\Soribo\\_TESTS\\Visual_Designer\\Src,<open files>",
+			"D:\\_Work\\Soribo\\_TESTS\\Visual_Designer\\Src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"class",
+			"stream-chat-",
+			"streamer-wrapper",
+			"Link",
+			"Focus",
+			"Col",
+			"navbar-brand",
+			"nav-link",
+			"navbar-brand",
+			"toList",
+			"ifr",
+			"widgetTypes",
+			"preserveContent",
+			"widgetTypes",
+			"Options",
+			"textOptions",
+			"$.vdFramework",
+			"Options",
+			"$.vdFramework(",
+			"this.widgetName",
+			"$.vdFramework(",
+			"Options",
+			"$.vdFramework(",
+			"Options",
+			"onAddRowChange",
+			"hidden",
+			"initWidgetMenu",
+			"this",
+			"px",
+			"id=",
+			"streamer-nav",
+			"id=",
+			"streamer-navbar",
+			"stream-content",
+			"id=",
+			"stream-chat",
+			"id=",
+			"streamer-suggestions",
+			"id=",
+			"navbar",
+			"id=\"nav",
+			"main-navbar",
+			"id=",
+			"dropdow",
+			"<i>",
+			"text-align",
+			"streamer-navbar",
+			"streamer-navbar\nmain-navbar",
+			"main-nav",
+			"https://static-cdn.jtvnw.net/jtv_user_pictures/beagsandjam-profile_image-4c76a91f7c0725db-70x70.jpe",
+			"important",
+			"navbar-nav",
+			"nav navbar-nav",
+			"X-UA-Compatible",
+			"apple-touch-icon",
+			"data-react-helmet=\"true\" ",
+			"first-child",
+			"first",
+			"vd-input-group-addon",
+			"radio",
+			"('",
+			"onTrash",
+			"onClone",
+			"onCreateComponent",
+			"onSEOValidate",
+			"onStyleChange",
+			"onAlignChange",
+			"onToggleCircleBorder",
+			"onShadowChange",
+			"onBorderChange",
+			"onPaddingChange",
+			"onMarginChange",
+			"onBkImgChange",
+			"onBackColourChange",
+			"onForeColourChange",
+			"onAnchorChange",
+			"onForeColourChange",
+			"onAnchorChange",
+			"mp4e",
+			"mp4",
+			"licence",
+			"U+",
+			"Bohemia Interactive",
+			"Web IT",
+			"Blueberry",
+			"value",
+			"value.",
+			"super",
+			"trash",
+			"onAddHTMLWidget",
+			"onAddVideoWidget",
+			"onAddContainerWidget",
+			"onAddRowWidget",
+			"onAddBtnWidget",
+			"onAddImgWidget",
+			"value.",
+			"vdWidget",
+			"self",
+			"Artistsweb",
+			"Web IT",
+			"backend",
+			"frontend",
+			"_super",
+			"\\n",
+			"$.vdWidget",
+			"$.vdWidget('select'",
+			"toggleAnchor",
+			"target",
+			" form-control",
+			"form-control",
+			"form",
+			"textare",
+			"vd-manager",
+			"'option",
+			"Size",
+			"Value",
+			"columnOptions",
+			"this.options.colWidth",
+			"trashElement",
+			"trash",
+			".vd-input-lg",
+			"not",
+			"subElement",
+			"not CP",
+			"hide",
+			"showOtherMenu",
+			"token",
+			"getUTMDate"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"chat-",
+			"streamer-container",
+			"-link",
+			"-focus",
+			"-col",
+			"Widget",
+			"self",
+			"",
+			"license",
+			"RentRocket",
+			"U+",
+			"Bohemia Interactive",
+			"Web IT",
+			"values",
+			"values.",
+			"Blueberry",
+			"Artistsweb",
+			"', display: ''},\n{name: '",
+			"",
+			"vd-menu-btn vd-btn-default",
+			"vd-menu-btn",
+			"vd-btn",
+			"",
+			"gzip",
+			"{.|}*.",
+			"{.|}*.key.enc",
+			"vdWidget",
+			"attachment",
+			"/",
+			"http://www.visualdesigner.io/wp-content/uploads/2017/10/cropped-Generic1-2.png",
+			"",
+			" ",
+			"",
+			"innerHTML",
+			"popupText",
+			"visual-designer-tag-container",
+			"target",
+			"/",
+			"textareaInputWidget",
+			"this.target",
+			"padding",
+			"posBtns",
+			"sizeBtns",
+			"hiddenMenuBtns",
+			"xs",
+			"",
+			"toggleAnchor",
+			"self",
+			"class=\"vd-",
+			".vd-",
+			"colourPicker",
+			"fa fa-picture-o",
+			"vdVideoSrcPicker",
+			"vdImgSrcPicker",
+			"vd-col-",
+			".vd-bootstrap ",
+			"col",
+			"fa fa-header",
+			"shortcode",
+			"widget",
+			"fa fa-minus",
+			"params",
+			"fonts/",
+			"vd-menu-btn",
+			"vd-menu",
+			"vd-sub-menu",
+			"vd-menu-group",
+			"vd-menu",
+			"</button>",
+			"<button ",
+			"sub-menu",
+			"target",
+			"params.target",
+			"target",
+			"$(target)",
+			"' +\\n'",
+			"\\n' +'",
+			"vd-glyphicon-",
+			"\"vd-glyphicon vd-glyphicon-",
+			"\"vd-glyhpicon vd-glyhpicon-",
+			"vd-icon",
+			"\"vd-glyphicon-",
+			"vd-col-",
+			"\"vd-glyphicon-",
+			"menuBtns",
+			"6906a0",
+			">' + \\n'",
+			"mediaWidget",
+			"defMenuBtns",
+			"defaultMenuBtns",
+			"self",
+			"src=\"foo\"",
+			"widget.element",
+			"self",
+			"this.widgetFullName",
+			"\\n> ",
+			"\\r\\n> ",
+			"baseFramework",
+			"gFramework",
+			"frameworkOptions",
+			"framework",
+			"frameworkOptions",
+			"gFramework",
+			"* Author: Sam Zielke-Ryner",
+			"_setWidth",
+			"colNum: 12",
+			"colNum: 11",
+			"colNum: 10",
+			"colNum: 9",
+			"colNum: 8",
+			"colNum: 7",
+			"colNum: 6",
+			"colNum: 5",
+			", colNum: }]",
+			", colNum: },",
+			"},\\n{",
+			"},\\r\\n{",
+			"",
+			"],",
+			"",
+			"classes:",
+			"colWidth: 1}",
+			"', colWidth: }]",
+			"', colWidth: },",
+			"{class: 'col",
+			"colNum",
+			"this.resizeColumn",
+			"name: \"resize"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 44.0
+	},
+	"input":
+	{
+		"height": 59.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 182.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/firefox.sublime-build",
+	"project": "twitch-clone.sublime-project",
+	"replace":
+	{
+		"height": 150.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 1250.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\_Work\\Soribo\\_TESTS\\vd\\visual-designer-2.0.sublime-project"
+			]
+		],
+		"width": 950.0
+	},
+	"select_symbol":
+	{
+		"height": 588.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 1008.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 676.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

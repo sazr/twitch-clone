@@ -1,0 +1,27 @@
+{
+  "name": "twitch-clone",
+  "version": "0.1.0",
+  "author": {
+    "name": "Sam Zielke-Ryner",
+    "url": "https://github.com/sazr"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "bootstrap": "latest",
+    "font-awesome": "latest",
+    "grunt": "~0.4.*",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-less": "latest",
+    "grunt-contrib-qunit": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-watch": "latest",
+    "jquery": "latest",
+    "jshint-stylish": "latest",
+    "matchdep": "*",
+    "modernizr": "^3.5.0"
+  }
+}
